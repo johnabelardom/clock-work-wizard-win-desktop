@@ -1,0 +1,13 @@
+D:\Visual Basic\Clock Wizard Wizard\bin\Debug\Clock Wizard Wizard.exe.config
+D:\Visual Basic\Clock Wizard Wizard\bin\Debug\Clock Wizard Wizard.exe
+D:\Visual Basic\Clock Wizard Wizard\bin\Debug\Clock Wizard Wizard.pdb
+D:\Visual Basic\Clock Wizard Wizard\bin\Debug\Clock Wizard Wizard.xml
+D:\Visual Basic\Clock Wizard Wizard\bin\Debug\MaterialSkin.dll
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.vbprojResolveAssemblyReference.cache
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\WindowsApp1.Resources.resources
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.vbproj.GenerateResource.Cache
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.exe
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.xml
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\Clock Wizard Wizard.pdb
+D:\Visual Basic\Clock Wizard Wizard\obj\Debug\WindowsApp1.Login.resources
